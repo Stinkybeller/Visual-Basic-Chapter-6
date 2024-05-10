@@ -1,0 +1,36 @@
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe.config
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\bin\Debug\Softball Scoreboard.pdb
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\bin\Debug\Softball Scoreboard.xml
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbprojAssemblyReference.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\obj\Debug\Softball_Scoreboard.frmSoftballScoreboard.resources
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\obj\Debug\Softball_Scoreboard.Resources.resources
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.GenerateResource.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.CoreCompileInputs.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\obj\Debug\Softball Scoreboard.exe
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\obj\Debug\Softball Scoreboard.xml
+C:\Users\105047\AppData\Local\Temporary Projects\Softball Scoreboard\obj\Debug\Softball Scoreboard.pdb
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe.config
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.pdb
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.xml
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball_Scoreboard.frmSoftballScoreboard.resources
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball_Scoreboard.Resources.resources
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.exe
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.xml
+E:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.pdb
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe.config
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.pdb
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.xml
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbprojAssemblyReference.cache
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball_Scoreboard.frmSoftballScoreboard.resources
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball_Scoreboard.Resources.resources
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.GenerateResource.cache
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.exe
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.xml
+D:\VisualBasic\Chapter 6\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.pdb
