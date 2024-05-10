@@ -1,0 +1,12 @@
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\obj\Debug\Penny or Nickel Challenge.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\obj\Debug\Penny_or_Nickel_Challenge.frmPennyOrNickel.resources
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\obj\Debug\Penny_or_Nickel_Challenge.Resources.resources
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\obj\Debug\Penny or Nickel Challenge.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\obj\Debug\Penny or Nickel Challenge.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\bin\Debug\Penny or Nickel Challenge.exe.config
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\bin\Debug\Penny or Nickel Challenge.exe
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\bin\Debug\Penny or Nickel Challenge.pdb
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\bin\Debug\Penny or Nickel Challenge.xml
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\obj\Debug\Penny or Nickel Challenge.exe
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\obj\Debug\Penny or Nickel Challenge.xml
+E:\VisualBasic\Chapter 6\Penny or Nickel Challenge\Penny or Nickel Challenge\obj\Debug\Penny or Nickel Challenge.pdb

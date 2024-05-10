@@ -1,0 +1,24 @@
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\bin\Debug\Internet Speed Test.exe.config
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\bin\Debug\Internet Speed Test.exe
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\bin\Debug\Internet Speed Test.pdb
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\bin\Debug\Internet Speed Test.xml
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\obj\Debug\Internet Speed Test.vbprojAssemblyReference.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\obj\Debug\Internet_Speed_Test.frmInternetSpeedTest.resources
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\obj\Debug\Internet_Speed_Test.Resources.resources
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\obj\Debug\Internet Speed Test.vbproj.GenerateResource.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\obj\Debug\Internet Speed Test.vbproj.CoreCompileInputs.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\obj\Debug\Internet Speed Test.exe
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\obj\Debug\Internet Speed Test.xml
+C:\Users\105047\AppData\Local\Temporary Projects\Internet Speed Test\obj\Debug\Internet Speed Test.pdb
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\bin\Debug\Internet Speed Test.exe.config
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\bin\Debug\Internet Speed Test.exe
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\bin\Debug\Internet Speed Test.pdb
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\bin\Debug\Internet Speed Test.xml
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\obj\Debug\Internet Speed Test.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\obj\Debug\Internet_Speed_Test.frmInternetSpeedTest.resources
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\obj\Debug\Internet_Speed_Test.Resources.resources
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\obj\Debug\Internet Speed Test.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\obj\Debug\Internet Speed Test.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\obj\Debug\Internet Speed Test.exe
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\obj\Debug\Internet Speed Test.xml
+E:\VisualBasic\Chapter 6\Internet Speed Test\Internet Speed Test\obj\Debug\Internet Speed Test.pdb
