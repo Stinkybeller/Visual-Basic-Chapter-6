@@ -1,0 +1,36 @@
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\bin\Debug\Factorial Calculator.exe.config
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\bin\Debug\Factorial Calculator.exe
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\bin\Debug\Factorial Calculator.pdb
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\bin\Debug\Factorial Calculator.xml
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\obj\Debug\Factorial Calculator.vbprojAssemblyReference.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\obj\Debug\Factorial_Calculator.frmFactorialCalculator.resources
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\obj\Debug\Factorial_Calculator.Resources.resources
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\obj\Debug\Factorial Calculator.vbproj.GenerateResource.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\obj\Debug\Factorial Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\obj\Debug\Factorial Calculator.exe
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\obj\Debug\Factorial Calculator.xml
+C:\Users\105047\AppData\Local\Temporary Projects\Factorial Calculator\obj\Debug\Factorial Calculator.pdb
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.exe.config
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.exe
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.pdb
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.xml
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.vbprojAssemblyReference.cache
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial_Calculator.frmFactorialCalculator.resources
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial_Calculator.Resources.resources
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.vbproj.GenerateResource.cache
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.exe
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.xml
+D:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.pdb
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.exe.config
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.exe
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.pdb
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.xml
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial_Calculator.frmFactorialCalculator.resources
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial_Calculator.Resources.resources
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.exe
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.xml
+E:\VisualBasic\Chapter 6\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.pdb

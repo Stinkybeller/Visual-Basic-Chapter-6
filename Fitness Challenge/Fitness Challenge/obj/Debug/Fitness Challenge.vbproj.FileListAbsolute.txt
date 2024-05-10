@@ -1,0 +1,12 @@
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe.config
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.pdb
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.xml
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.frmFitnessChallenge.resources
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.Resources.resources
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.exe
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.xml
+E:\VisualBasic\Chapter 6\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.pdb
